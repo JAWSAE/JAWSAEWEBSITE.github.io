@@ -1,0 +1,13 @@
+.name {
+     font-family:Times New Roman;
+     color: rgb(0, 183, 255);
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     background-color: rgb(27, 5, 105);
+     margin: 0px;
+}
+body{
+     background-color: rgb(30, 53, 255); 
+     margin: 0px;
+}
